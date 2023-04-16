@@ -10,6 +10,7 @@
 - GitHub Repository: https://github.com/praveenscience/codingninjas-react-chatbot
 - Personal Development Environment: https://blog.praveen.science/my-personal-development-environment/
 - React Bootstrap Helpers: https://github.com/praveenscience/Bootstrap-React-Helpers
+- Git Shortcuts: https://blog.praveen.science/git-shortcuts/
 
 ## Important Commands
 
