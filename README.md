@@ -11,6 +11,7 @@
 - Personal Development Environment: https://blog.praveen.science/my-personal-development-environment/
 - React Bootstrap Helpers: https://github.com/praveenscience/Bootstrap-React-Helpers
 - Git Shortcuts: https://blog.praveen.science/git-shortcuts/
+- Previous React ChatBot: https://github.com/praveenscience/edusera-chat-bot
 
 ## Important Commands
 
